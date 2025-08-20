@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D42587B2-7A3F-49F3-8289-435B5BA248D7}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds\\desktop\\projeto_loja\\projetoloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42587B2-7A3F-49F3-8289-435B5BA248D7}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D42587B2-7A3F-49F3-8289-435B5BA248D7}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds\\desktop\\projeto_loja\\projetoloja\\views\\carrinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D42587B2-7A3F-49F3-8289-435B5BA248D7}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\views\\carrinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,6 +67,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoLoja\\Program.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Program.cs",
+              "RelativeToolTip": "ProjetoLoja\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:32:08.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Views\\Carrinho\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoLoja\\Views\\Carrinho\\Index.cshtml",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProdutoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
@@ -83,12 +100,11 @@
               "RelativeToolTip": "ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:36:28.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:36:28.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PedidoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Repositorio\\PedidoRepositorio.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Repositorio\\PedidoRepositorio.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CarrinhoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Repositorio\\CarrinhoRepositorio.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Repositorio\\CarrinhoRepositorio.cs",
@@ -112,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProjetoLoja.csproj",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\ProjetoLoja.csproj",
               "RelativeDocumentMoniker": "ProjetoLoja\\ProjetoLoja.csproj",
@@ -124,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Models\\Produto.cs",
@@ -136,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Models\\Pedido.cs",
@@ -148,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ItemPedido.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Models\\ItemPedido.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Models\\ItemPedido.cs",
@@ -160,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ItemCarrinho.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Models\\ItemCarrinho.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Models\\ItemCarrinho.cs",
@@ -172,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Controllers\\PedidoController.cs",
@@ -184,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CarrinhoController.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Controllers\\CarrinhoController.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Controllers\\CarrinhoController.cs",
@@ -192,12 +208,11 @@
               "RelativeToolTip": "ProjetoLoja\\Controllers\\CarrinhoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:30:24.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:30:24.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\Projeto_Loja\\ProjetoLoja\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Controllers\\ProdutoController.cs",
